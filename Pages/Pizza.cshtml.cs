@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace RazorPagesPizza.pages
+namespace RazorPagesPizza.Pages
 {
     public class PizzaModel : PageModel
     {
