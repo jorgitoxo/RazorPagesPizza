@@ -1,0 +1,7 @@
+/Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/netcoreapp3.0/RazorPagesPizza.csproj.AssemblyReference.cache
+/Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/netcoreapp3.0/RazorPagesPizza.AssemblyInfoInputs.cache
+/Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/netcoreapp3.0/RazorPagesPizza.AssemblyInfo.cs
+/Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/netcoreapp3.0/RazorPagesPizza.csproj.CoreCompileInputs.cache
+/Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/netcoreapp3.0/RazorPagesPizza.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/netcoreapp3.0/RazorPagesPizza.RazorAssemblyInfo.cache
+/Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/netcoreapp3.0/RazorPagesPizza.RazorAssemblyInfo.cs
