@@ -3,52 +3,46 @@ build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesPizza
 build_property.RootNamespace = RazorPagesPizza
-build_property.ProjectDir = /Users/jorgito/Code/Projects/RazorPagesPizza/
-build_property.RazorLangVersion = 5.0
+build_property.ProjectDir = G:\Code\Projects\Web applications\RazorPagesPizza\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/jorgito/Code/Projects/RazorPagesPizza
+build_property.MSBuildProjectDirectory = G:\Code\Projects\Web applications\RazorPagesPizza
 build_property._RazorSourceGeneratorDebug = 
-build_property._RazorSourceGeneratorLog = 
 
-[/Users/jorgito/Code/Projects/RazorPagesPizza/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Pages/Error.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/net6.0/Razor/Pages/Error.cshtml.g.cs
+[G:/Code/Projects/Web applications/RazorPagesPizza/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jorgito/Code/Projects/RazorPagesPizza/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Pages/Index.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/net6.0/Razor/Pages/Index.cshtml.g.cs
+[G:/Code/Projects/Web applications/RazorPagesPizza/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jorgito/Code/Projects/RazorPagesPizza/Pages/Pizza.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Pages/Pizza.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/net6.0/Razor/Pages/Pizza.cshtml.g.cs
+[G:/Code/Projects/Web applications/RazorPagesPizza/Pages/Pizza.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jorgito/Code/Projects/RazorPagesPizza/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Pages/Privacy.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/net6.0/Razor/Pages/Privacy.cshtml.g.cs
+[G:/Code/Projects/Web applications/RazorPagesPizza/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jorgito/Code/Projects/RazorPagesPizza/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Pages/Shared/_ValidationScriptsPartial.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/net6.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+[G:/Code/Projects/Web applications/RazorPagesPizza/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jorgito/Code/Projects/RazorPagesPizza/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Pages/_ViewImports.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/net6.0/Razor/Pages/_ViewImports.cshtml.g.cs
+[G:/Code/Projects/Web applications/RazorPagesPizza/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jorgito/Code/Projects/RazorPagesPizza/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Pages/_ViewStart.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/net6.0/Razor/Pages/_ViewStart.cshtml.g.cs
+[G:/Code/Projects/Web applications/RazorPagesPizza/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jorgito/Code/Projects/RazorPagesPizza/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Pages/Shared/_Layout.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = /Users/jorgito/Code/Projects/RazorPagesPizza/obj/Debug/net6.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
-build_metadata.AdditionalFiles.CssScope = b-eijwq3ciwv
+[G:/Code/Projects/Web applications/RazorPagesPizza/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2hl0nrvjfs

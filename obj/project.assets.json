@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/jorgito/.nuget/packages/": {}
+    "C:\\Users\\itole\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jorgito/Code/Projects/RazorPagesPizza/RazorPagesPizza.csproj",
+      "projectUniqueName": "G:\\Code\\Projects\\Web applications\\RazorPagesPizza\\RazorPagesPizza.csproj",
       "projectName": "RazorPagesPizza",
-      "projectPath": "/Users/jorgito/Code/Projects/RazorPagesPizza/RazorPagesPizza.csproj",
-      "packagesPath": "/Users/jorgito/.nuget/packages/",
-      "outputPath": "/Users/jorgito/Code/Projects/RazorPagesPizza/obj/",
+      "projectPath": "G:\\Code\\Projects\\Web applications\\RazorPagesPizza\\RazorPagesPizza.csproj",
+      "packagesPath": "C:\\Users\\itole\\.nuget\\packages\\",
+      "outputPath": "G:\\Code\\Projects\\Web applications\\RazorPagesPizza\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jorgito/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\itole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-preview.3.21202.5/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
