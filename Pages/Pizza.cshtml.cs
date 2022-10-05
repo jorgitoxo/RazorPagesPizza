@@ -1,8 +1,8 @@
+using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using RazorPagesPizza.Models;
 using RazorPagesPizza.Services;
-using System.Collections.Generic;
 
 namespace RazorPagesPizza.Pages
 {
@@ -18,18 +18,22 @@ namespace RazorPagesPizza.Pages
             pizzas = PizzaService.GetAll();
         }
 
-        public string GlutenFreeText(Pizza pizza) {
+        public string GlutenFreeText(Pizza pizza)
+        {
             return pizza.IsGlutenFree? "Gluten Free":"Not Gluten Free";
         }
 
-        public IActionResult OnPost(){
+        public IActionResult OnPost()
+        {
             if (!ModelState.IsValid)
                 return Page();
 
             PizzaService.Add(NewPizza);
             return RedirectToAction("Get");
         }
-        public IActionResult OnPostDelete(int id){
+
+        public IActionResult OnPostDelete(int id)
+        {
             PizzaService.Delete(id);
             return RedirectToAction("Get");
         }
