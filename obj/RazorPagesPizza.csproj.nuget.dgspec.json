@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Code\\Projects\\Web applications\\RazorPagesPizza\\RazorPagesPizza.csproj": {}
+    "/Users/jorgito/Code/Projects/RazorPagesPizza/RazorPagesPizza.csproj": {}
   },
   "projects": {
-    "G:\\Code\\Projects\\Web applications\\RazorPagesPizza\\RazorPagesPizza.csproj": {
+    "/Users/jorgito/Code/Projects/RazorPagesPizza/RazorPagesPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Code\\Projects\\Web applications\\RazorPagesPizza\\RazorPagesPizza.csproj",
+        "projectUniqueName": "/Users/jorgito/Code/Projects/RazorPagesPizza/RazorPagesPizza.csproj",
         "projectName": "RazorPagesPizza",
-        "projectPath": "G:\\Code\\Projects\\Web applications\\RazorPagesPizza\\RazorPagesPizza.csproj",
-        "packagesPath": "C:\\Users\\itole\\.nuget\\packages\\",
-        "outputPath": "G:\\Code\\Projects\\Web applications\\RazorPagesPizza\\obj\\",
+        "projectPath": "/Users/jorgito/Code/Projects/RazorPagesPizza/RazorPagesPizza.csproj",
+        "packagesPath": "/Users/jorgito/.nuget/packages/",
+        "outputPath": "/Users/jorgito/Code/Projects/RazorPagesPizza/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\itole\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/jorgito/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,14 +37,31 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.CSharp.CodeStyle": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Net.Compilers.Toolset": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-preview.3.21202.5/RuntimeIdentifierGraph.json"
         }
       }
     }

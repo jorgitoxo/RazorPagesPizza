@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SzMQXa1HS1b1yxSlqQzkanuLY2AjCZKIgNbdYXH6y4AoG7pmDVPWAT2wkBEJR2LL7bNih7LFjRbK8hd4+CEpCg==",
+  "dgSpecHash": "u8QNHCS5fbUwvmlrGO1IpTtqmkSMDBDhI99TT81hffcA0iALNI+AmSbS8rjR+VmoDKdRritYZvEJA8OKdiVb5w==",
   "success": true,
-  "projectFilePath": "G:\\Code\\Projects\\Web applications\\RazorPagesPizza\\RazorPagesPizza.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/jorgito/Code/Projects/RazorPagesPizza/RazorPagesPizza.csproj",
+  "expectedPackageFiles": [
+    "/Users/jorgito/.nuget/packages/microsoft.codeanalysis.csharp.codestyle/4.3.1/microsoft.codeanalysis.csharp.codestyle.4.3.1.nupkg.sha512",
+    "/Users/jorgito/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.2/microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512",
+    "/Users/jorgito/.nuget/packages/microsoft.net.compilers.toolset/4.3.1/microsoft.net.compilers.toolset.4.3.1.nupkg.sha512"
+  ],
   "logs": []
 }
